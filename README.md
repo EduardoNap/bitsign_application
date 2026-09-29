@@ -105,11 +105,7 @@ docker run --env-file .env -p 3000:3000 -p 8000:8000 bitsign-dashboard
 
 In production, set `API_URL` to the public backend address (for example, your load balancer's URL).
 
-## Notes
-
-- Built as a project for a retail client's legal and real-estate team. No client documents, data, or credentials are included. All configuration comes from environment variables (see `.env.example`).
-- The UI is in Spanish, the language of its end users.
 
 ## Author
 
-Eduardo Rey García Velasco
+Eduardo García
