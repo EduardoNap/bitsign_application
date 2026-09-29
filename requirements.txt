@@ -1,0 +1,4 @@
+reflex==0.8.24
+psycopg2-binary==2.9.9
+psycopg[binary]==3.2.1
+boto3

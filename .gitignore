@@ -1,0 +1,17 @@
+*.py[cod]
+*.db
+assets/external/
+.states
+__pycache__/
+.web
+.vendor/
+.env
+.venv/
+venv/
+node_modules/
+.env.*
+!.env.example
+uploaded_files/
+*.pdf
+.DS_Store
+.claude/
